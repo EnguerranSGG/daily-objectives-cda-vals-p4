@@ -32,7 +32,7 @@ Seulement si le wargame bandit est au niveau 5 minimum :
   - [x] Renommer son dernier commit en respectant cette convention
 * [x] Comprendre le fonctionnement des branches dans Git :
   - [x] Lister, changer, créer, supprimer des branches
-  - [ ] Quelle est la différence entre `Git switch` et `Git checkout`
+  - [x] Quelle est la différence entre `Git switch` et `Git checkout`
 * [x] Comprendre le merge dans Git
   - [ ] Comprendre le "fast forward"
   - [ ] Quelle est la différence entre un "commit" et un "merge commit" ?
