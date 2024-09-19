@@ -40,7 +40,7 @@ Seulement si le wargame bandit est au niveau 5 minimum :
 #### Github
 
 - [x] Pimper son profile Github (belle du village)
-- [ ] Configurer un tunnel SSH entre son local et son Github
+- [x] Configurer un tunnel SSH entre son local et son Github
 - [x] Découvrir l'interface de Github :
   - [x] Pull Requests
   - [x] Branches
