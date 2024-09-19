@@ -17,13 +17,13 @@
   - [ ] Installation navigateur (Developper Edition)
   - [x] Création et configuration Mail pro
 
-- [ ] Découverte de Linux :
+- [x] Découverte de Linux :
 
   - [x] Savoir ce qu'est Linux
   - [x] Savoir ce qu'est une distribution Linux
   - [x] Comprendre l'arborescence de Linux
 
-- [ ] Découverte du Terminal :
+- [x] Découverte du Terminal :
 
   - [x] Comprendre la différence entre une interface en ligne de commande et une interface graphique
   - [x] Savoir ce qu'est un Shell, quelle différence entre BASH et ZSH
