@@ -4,10 +4,10 @@
 
 ### Introduction à PostgreSQL et DCL
 
-- [ ] Découverte de PostgreSQL
-  - [ ] Identifier les différences entre MySQL et PostgreSQL
-  - [ ] Savoir Expliquer les avantages de PostgreSQL
-  - [ ] Savoir Choisir les cas d'usage adaptés à PostgreSQL
+- [x] Découverte de PostgreSQL
+  - [x] Identifier les différences entre MySQL et PostgreSQL
+  - [x] Savoir Expliquer les avantages de PostgreSQL
+  - [x] Savoir Choisir les cas d'usage adaptés à PostgreSQL
 
 - [X] Installation et Configuration
   - [X] Installation de PostgreSQL sur la machine
@@ -26,8 +26,8 @@
     - [x] Savoir supprimer des utilisateurs avec DROP USER
     - [x] Savoir utiliser les rôles PostgreSQL
   
-  - [ ] Gestion des droits
-    - [ ] Savoir attribuer des privilèges avec GRANT
+  - [x] Gestion des droits
+    - [x] Savoir attribuer des privilèges avec GRANT
       - [x] Droits sur les bases de données
       - [x] Droits sur les tables
       - [x] Droits sur les colonnes
