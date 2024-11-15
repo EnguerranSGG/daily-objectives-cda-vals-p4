@@ -30,3 +30,6 @@
   - [ ] Savoir extraire les règles d'un cahier des charges
   - [ ] Savoir formaliser les règles de gestion
   - [ ] Savoir valider la cohérence des règles
+
+
+Niveau conceptuel MCD, organisationnel MLD, technique MPD
